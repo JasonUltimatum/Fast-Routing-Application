@@ -1,2 +1,2 @@
 # csci561
-Introduction to programming system
+Introduction to Artificial Intelligence
